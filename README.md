@@ -12,7 +12,12 @@ https://cyclopistudio.github.io/
 
 ### Some examples:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/mazmongadas/mazmongadas.html
+
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/redzeppelin/zeppelin.html
+
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/SuButton/SuButton.htmlor
+
 
 
 #### Collaborators and partners:
@@ -25,10 +30,6 @@ Juan Blender https://sites.google.com/site/blender3dgear/
 
 greenfactory.es http://greenfactory.es/
 
-Cyclo Pi Studio December 2019
+Cyclo π Studio, Cyclo Pi Studio
 
-Cyclo π Studio Web
-
-```markdown
-Syntax highlighted code block
 
