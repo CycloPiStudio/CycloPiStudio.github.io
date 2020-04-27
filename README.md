@@ -1,13 +1,13 @@
-Visita nuestra página Web de CyloPi Studio y verán nuestros juegos:
-
-https://cyclopistudio.github.io/
-
-Bueno; aquí, esto hay que cambiarlo  cyclopistudio.github.io
-
+# Cyclo 𝛑 Studio
 
 ## Welcome to Cyclo 𝛑 Studio
 
 You can visit our website [cyclopistudio.github.io](https://cyclopistudio.github.io/) and you will play our video games.
+
+Visita nuestra página Web de CyloPi Studio y verán nuestros juegos:
+
+https://cyclopistudio.github.io/
+
 
 
 ### Some examples:
